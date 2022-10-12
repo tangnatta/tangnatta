@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tangnatta&theme=dark&card_width=500&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tangnatta&theme=dark&card_width=500&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tangnatta&card_width=500&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=tangnatta&theme=dark&card_width=300&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tangnatta&theme=dark&card_width=300&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tangnatta&card_width=300&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tangnatta&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
