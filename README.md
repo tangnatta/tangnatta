@@ -86,3 +86,9 @@
 
 
 ###
+
+<h3 align="left">Side Project:</h3>
+  <a href="https://github.com/tangnatta/LiteNotch" target="_blank">
+    <img src="https://github.com/tangnatta/LiteNotch/raw/main/macos/Icon/icon-256.png" height="35" alt="LiteNotch logo"  />
+  </a>
+
